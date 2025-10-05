@@ -1,79 +1,91 @@
-<!-- Modern Professional README for Golam Sarowar -->
-
-<h1 align="center">👋 Hey, I'm <span style="color:#00FF88;">Golam Sarowar</span></h1>
-<h3 align="center">🚀 Full-Stack Web & App Developer | Building ideas into impact</h3>
-
----
-
-### 🧭 About Me  
-
-💡 A self-taught **Full-Stack Developer** passionate about creating digital experiences that simplify everyday life.  
-🚀 Currently building my own **startup**, where people can manage and book everything they need — all in one ecosystem.  
-🎯 My work blends **technology**, **creativity**, and **real-world problem solving**.  
-🌱 Always learning, always evolving — because innovation never stops.  
-
----
-
-### ⚙️ What I Do  
-
-- 🧩 End-to-End Development — from concept to deployment  
-- ⚡ Modern Web Architectures — scalable, maintainable, and fast  
-- 📱 Web + Mobile Experience Design  
-- 💭 Turning challenges into clean, functional code  
-
----
-
-### 🧠 Philosophy  
-
-> “Code is not just what I write — it’s how I think.”  
->  
-> I believe great products are built by curiosity, patience, and the courage to learn beyond comfort zones.
-
----
-
-### 🌍 Currently Exploring  
-
-- Clean UI/UX patterns for modern startups  
-- Smarter automation in web apps  
-- Better integrations between frontend & backend  
-- Building tech that helps people every day  
-
----
-
-### 📈 GitHub Overview  
+<!-- 🌌 Golam Sarowar | Futuristic Full-Stack Developer -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=merko&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=merko&hide_border=true" height="160px"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Golam+Sarowar;Full-Stack+Developer;Visionary+Builder;Shaping+the+Future+with+Code" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Mindset  
+<h1 align="center" style="color:#00FF88;">⚡ Golam Sarowar</h1>
 
-> Instead of listing tools, I build systems that grow, scale, and adapt.  
-> I use what fits the problem — not just what’s trending.
+<p align="center">
+  <b>Next-generation full-stack developer | Startup builder | Vision-driven creator</b><br>
+  <i>Building the future where technology meets design, and ideas become systems.</i>
+</p>
 
 ---
 
-### 🤝 Connect With Me  
+## 🧠 About Me
+I’m **Golam Sarowar**, a **self-taught full-stack web & app developer** with a mission to create tools that make life simpler, smarter, and more connected.  
+Currently, I’m building my own startup — a unified platform where people can **manage and book everything they need in one place**.  
+
+I believe in crafting **clean, scalable, and purposeful** digital experiences — not just products.  
+
+---
+
+## 🛠️ What I Do
+- 🚀 Build full-stack web apps using **React, Node.js, Express & MongoDB**
+- 🎨 Design **intuitive UI/UX** that blends function with aesthetic
+- ⚙️ Develop **scalable systems** with efficient backend architecture
+- 🌍 Embrace **modern frameworks, responsive design, and performance optimization**
+- 🧩 Merge creativity and logic to turn complex ideas into elegant solutions
+
+---
+
+## 💡 Philosophy
+> “Technology is not just code — it’s an expression of vision.  
+> Build with intention. Design with empathy. Deploy the future.”  
+
+---
+
+## 🧭 Currently Exploring
+- 🔹 Advanced **React patterns & Next.js**
+- 🔹 **System design & scalability**
+- 🔹 **TypeScript** for maintainable large-scale apps
+- 🔹 **Mobile-first architecture**
+- 🔹 **Product design thinking** & innovation strategy
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=GolamSarowar&show_icons=true&theme=radical&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GolamSarowar&theme=radical&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&background=0D1117&sideNums=00FF88&currStreakNum=FFFFFF" alt="GitHub Streak" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolamSarowar&layout=compact&theme=radical&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" height="130px"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/GolamSarowar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://linkedin.com/in/golamsarowar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-00FF88?style=for-the-badge&logo=twitter&logoColor=black" />
+  <a href="mailto:golamsarowar.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-00FF88?style=for-the-badge&logo=facebook&logoColor=black" />
-  </a>
-  <a href="https://github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=githubpages&logoColor=black" />
+  <a href="https://twitter.com/golamsarowar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-00FF88?style=for-the-badge&logo=x&logoColor=black" />
   </a>
 </p>
 
 ---
 
-<h4 align="center">✨ Crafted with curiosity, built with purpose ✨</h4>
-<p align="center"><i>“Keep building. Keep learning. Keep creating your own path.”</i></p>
+## 🧬 Final Quote
+<p align="center">
+  <b style="color:#00FF88;">“I don’t just write code — I build futures.”</b><br>
+  <i>– Golam Sarowar</i>
+</p>
+
+---
+
+<p align="center">
+  <sub>⚙️ Designed & coded by <b>Golam Sarowar</b> • Inspired by the future • 2025</sub>
+</p>
