@@ -29,7 +29,7 @@ Focused on performance, reusability, and minimal design — I love turning ideas
 
 ### ⚡ GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+![](https://github-readme-stats.vercel.app/api?username=iamgolamL&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamgolam&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
