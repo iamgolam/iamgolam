@@ -1,3 +1,6 @@
+<!-- 🟣 Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:9333EA&height=180&section=header&text=Golam%20Sarowar%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 # 👋 Hi, I'm Golam Sarowar  
 ### Full Stack Developer (Self-Taught)
 
@@ -29,7 +32,7 @@ Focused on performance, reusability, and minimal design — I love turning ideas
 
 ### ⚡ GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamgolam&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
@@ -44,3 +47,6 @@ Focused on performance, reusability, and minimal design — I love turning ideas
 ---
 
 ✨ _"Learning by building. Growing by solving."_
+
+<!-- 🟣 Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:1E3A8A&height=120&section=footer" width="100%"/>
