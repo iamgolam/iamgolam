@@ -1,91 +1,66 @@
-<!-- 🌌 Golam Sarowar | Futuristic Full-Stack Developer -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Golam+Sarowar;Full-Stack+Developer;Visionary+Builder;Shaping+the+Future+with+Code" alt="Typing SVG" />
-</p>
+# Golam Sarowar
 
----
-
-<h1 align="center" style="color:#00FF88;">⚡ Golam Sarowar</h1>
-
-<p align="center">
-  <b>Next-generation full-stack developer | Startup builder | Vision-driven creator</b><br>
-  <i>Building the future where technology meets design, and ideas become systems.</i>
-</p>
+### **Self-Taught Fullstack Developer & Startup Builder**
 
 ---
 
-## 🧠 About Me
-I’m **Golam Sarowar**, a **self-taught full-stack web & app developer** with a mission to create tools that make life simpler, smarter, and more connected.  
-Currently, I’m building my own startup — a unified platform where people can **manage and book everything they need in one place**.  
+## 🚀 **About Me**
 
-I believe in crafting **clean, scalable, and purposeful** digital experiences — not just products.  
+Building the future of unified platform experiences. Currently crafting **OnePlace** - a revolutionary platform where users manage and book everything they need in one seamless ecosystem.
 
----
-
-## 🛠️ What I Do
-- 🚀 Build full-stack web apps using **React, Node.js, Express & MongoDB**
-- 🎨 Design **intuitive UI/UX** that blends function with aesthetic
-- ⚙️ Develop **scalable systems** with efficient backend architecture
-- 🌍 Embrace **modern frameworks, responsive design, and performance optimization**
-- 🧩 Merge creativity and logic to turn complex ideas into elegant solutions
+*Innovation through code, impact through design.*
 
 ---
 
-## 💡 Philosophy
-> “Technology is not just code — it’s an expression of vision.  
-> Build with intention. Design with empathy. Deploy the future.”  
+## 💻 **What I Do**
+
+- **Fullstack Architecture** → End-to-end web & app development
+- **Scalable Systems** → Building foundations that grow with vision
+- **User-Centric Design** → Interfaces that feel intuitive and powerful
+- **Product Mindset** → Code that solves real business problems
 
 ---
 
-## 🧭 Currently Exploring
-- 🔹 Advanced **React patterns & Next.js**
-- 🔹 **System design & scalability**
-- 🔹 **TypeScript** for maintainable large-scale apps
-- 🔹 **Mobile-first architecture**
-- 🔹 **Product design thinking** & innovation strategy
+## 🧠 **Philosophy**
+
+> "Clean code solves complex problems. Great design makes them disappear."
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 **Currently Exploring**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GolamSarowar&show_icons=true&theme=radical&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GolamSarowar&theme=radical&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&background=0D1117&sideNums=00FF88&currStreakNum=FFFFFF" alt="GitHub Streak" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolamSarowar&layout=compact&theme=radical&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" height="130px"/>
-</p>
+- Advanced System Architecture
+- Scalable Database Design
+- Performance Optimization
+- Startup Infrastructure
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/GolamSarowar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-  <a href="https://linkedin.com/in/golamsarowar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="mailto:golamsarowar.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://twitter.com/golamsarowar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-00FF88?style=for-the-badge&logo=x&logoColor=black" />
-  </a>
-</p>
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
+
+</div>
 
 ---
 
-## 🧬 Final Quote
-<p align="center">
-  <b style="color:#00FF88;">“I don’t just write code — I build futures.”</b><br>
-  <i>– Golam Sarowar</i>
-</p>
+## 🤝 **Connect With Me**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black)](https://)
+[![Twitter](https://img.shields.io/badge/Twitter-00FF88?style=for-the-badge&logo=twitter&logoColor=black)](https://)
 
 ---
 
-<p align="center">
-  <sub>⚙️ Designed & coded by <b>Golam Sarowar</b> • Inspired by the future • 2025</sub>
-</p>
+<div align="center">
+
+### **Building tomorrow's solutions today**
+
+</div>
+
+</div>
