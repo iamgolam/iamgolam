@@ -29,16 +29,16 @@ Focused on performance, reusability, and minimal design — I turn ideas into fu
 
 ### ⚡ GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golamsarowar&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=golamsarowar&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamgolam&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamsarowar&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgolam&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=golamsarowar&theme=tokyonight&margin-w=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamgolam&theme=tokyonight&margin-w=10&no-bg=true" />
 </p>
 
 ---
