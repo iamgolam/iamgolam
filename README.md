@@ -28,11 +28,9 @@ Focused on performance, reusability, and minimal design — I turn ideas into fu
 ---
 
 ### ⚡ GitHub Overview  
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&show_icons=true&theme=tokyonight" height="150" />
-</p>
 
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgolam&layout=compact&theme=tokyonight" height="150" />
 </p>
 
