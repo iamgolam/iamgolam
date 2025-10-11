@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Golam%20Sarowar&fontSize=55&fontAlignY=35&desc=Crafting%20digital%20experiences%20with%20precision%20%26%20passion%20💻&descAlignY=60&descAlign=center&fontColor=ffffff&animation=twinkling&cache_seconds=7200" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Golam%20Sarowar&fontSize=50&fontAlignY=35&desc=Crafting%20digital%20experiences%20with%20precision%20%26%20passion%20💻&descAlignY=55&descAlign=center&fontColor=ffffff&animation=twinkling" alt="Header" />
 
 ### Full Stack Developer
-**Building reliable digital experiences with clean code, secure systems & thoughtful UX.**
 
-<!-- Social Badges -->
+**Building reliable digital experiences with clean code and thoughtful UX.**
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golamsarowar@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamgolam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamgolam)
@@ -16,17 +15,6 @@
 </div>
 
 ---
-
-### ✨ About Me
-```yaml
-name: Golam Sarowar
-role: Full Stack Developer
-focus: Clean code, secure architecture & modern design
-currently: Building my startup + multiple e-commerce projects
-interests: Web, Mobile, AI, and UX
-motto: "Learning by building. Growing by solving."
-
-
 
 ## 🚀 What I'm Working On
 
