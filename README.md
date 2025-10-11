@@ -16,12 +16,13 @@
 
 ---
 
-## About Me
-
-Self-taught developer passionate about building **secure**, **scalable**, and **elegant** web applications. I focus on reusability, performance, and clean architecture to deliver exceptional user experiences.
-
-*"Learning by building. Growing by solving."*
-
+### ✨ About Me
+```yaml
+name: Golam Sarowar
+role: Full Stack Developer
+focus: Clean code, secure systems, and modern design
+interests: Web, Mobile, AI, and UX
+motto: "Learning by building. Growing by solving."
 ---
 
 ## 🚀 What I'm Working On
