@@ -1,50 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Golam%20Sarowar&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=65&animation=twinkling&fontColor=ffffff)
+<!-- Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=180&section=header&text=Golam%20Sarowar&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=65&fontColor=FFFFFF&animation=fadeIn)
 
 <p align="center">
-  <strong>Self-taught Full Stack Developer</strong> building reliable products with clean code and thoughtful UX.
-  <br/>
-  I ship, learn, and iterate — fast.
+  <strong>💻 Self-taught Full Stack Developer</strong> — building reliable products with clean code and thoughtful UX.<br/>
+  <em>I ship, learn, and iterate — fast.</em>
 </p>
 
-### Let’s Connect
+---
+
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/iamgolam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/iamgolam" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:hello.golam.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/iamgolam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0F1419?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>
-  <a href="https://facebook.com/iamgolam" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <a href="mailto:golam@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/iamgolam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/iamgolam"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/iamgolam"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://facebook.com/iamgolam"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
 </p>
 
-### GitHub Overview
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=iamgolam&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+---
 
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgolam&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=iamgolam&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamgolam&theme=tokyonight&no-frame=true&margin-w=8" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgolam&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<p align="center"><em>"Learning by building. Growing by solving."</em></p>
+---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling)
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamgolam&theme=tokyonight&no-frame=true&margin-w=8&column=4" alt="Trophies"/>
+</p>
+
+---
+
+### ✨ About Me
+```yaml
+name: Golam Sarowar
+role: Full Stack Developer
+focus: Clean code, secure systems, and modern design
+interests: Web, Mobile, AI, and UX
+motto: "Learning by building. Growing by solving."
