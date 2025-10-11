@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=180&section=header&text=Golam%20Sarowar&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=65&fontColor=FFFFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=160&section=header&text=Golam%20Sarowar&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=65&fontColor=FFFFFF)
 
 <p align="center">
   <strong>💻 Self-taught Full Stack Developer</strong> — building reliable products with clean code and thoughtful UX.<br/>
@@ -21,19 +21,19 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=iamgolam&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=iamgolam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=iamgolam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgolam&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=iamgolam&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamgolam&theme=tokyonight&no-frame=true&margin-w=8&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamgolam&theme=tokyonight&no-frame=true&margin-w=6&column=4" alt="Trophies"/>
 </p>
 
 ---
