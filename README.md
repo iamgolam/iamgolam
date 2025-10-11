@@ -66,7 +66,6 @@ Self-taught developer passionate about building **secure**, **scalable**, and **
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgolam&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamgolam&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="Trophies"/>
 
 </div>
 
