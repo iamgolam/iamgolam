@@ -57,6 +57,15 @@ I'm currently building my own startup and developing multiple e-commerce product
 
 ---
 
+### ✨ About Me
+```yaml
+name: Golam Sarowar
+role: Full Stack Developer
+focus: Clean code, secure architecture, and modern design
+currently: Building a startup and working on e-commerce products
+interests: Web, Mobile, AI, and UX
+motto: "Learning by building. Growing by solving."
+
 *"Code is poetry written in logic."*
 
 </div>
