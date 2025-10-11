@@ -19,21 +19,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=iamgolam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=iamgolam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
+  <img src="https://img.shields.io/badge/Total%20Repos-25-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-2.3k-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects%20Deployed-14-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-ff69b4?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=iamgolam&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=iamgolam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=iamgolam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+</p>
+
+---
+
+### 🧠 My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,tailwind,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamgolam&theme=tokyonight&no-frame=true&margin-w=6&column=4" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/⭐_GitHub_Explorer_(Level_1)-grey?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔥_First_100_Commits-In_Progress-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀_Open_Source_Journey-Just_Started-blue?style=flat-square" />
 </p>
 
 ---
@@ -43,5 +55,7 @@
 name: Golam Sarowar
 role: Full Stack Developer
 focus: Clean code, secure systems, and modern design
-interests: Web, Mobile, AI, and UX
+tech_stack: Laravel, Vue.js, TailwindCSS, MySQL, JavaScript
+interests: Web, Mobile, AI, UX Design
 motto: "Learning by building. Growing by solving."
+status: Actively building new products 🚀
