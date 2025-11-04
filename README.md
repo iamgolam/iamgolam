@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I’m Golam Sarowar  
 ### Full Stack Developer • Problem Solver • Startup Builder  
