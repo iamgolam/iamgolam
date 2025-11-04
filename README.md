@@ -3,7 +3,6 @@
 # 👋 Hi, I’m Golam Sarowar  
 ### Full Stack Developer • Problem Solver • Startup Builder  
 
-Crafting secure, scalable & meaningful digital products for the real world.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamgolam)
