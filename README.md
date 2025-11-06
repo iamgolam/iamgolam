@@ -1,22 +1,22 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896" 
+       alt="Pixel Art Wallpaper Desktop Gif" 
+       width="100%" style="border-radius:12px; margin-bottom:25px;" />
+</p>
 
-  <h1 style="font-weight:800; font-size:2.6rem; margin-bottom:10px;">
-    Hi, I’m 
-    <span style="background: linear-gradient(90deg,#58a6ff,#00d4ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
-      Golam Sarowar
-    </span>
-  </h1>
+<h1 align="center" style="font-weight:800; font-size:2.8rem; margin-bottom:10px; line-height:1.3;">
+  Hi, I’m 
+  <span style="background:linear-gradient(90deg,#58a6ff,#00d4ff,#58a6ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
+    Golam Sarowar
+  </span> 👋
+</h1>
 
-  <h3 style="font-weight:500; color:#c9d1d9; letter-spacing:0.3px; margin-bottom:25px;">
-    Full Stack Developer • Problem Solver
-  </h3>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C;Problem+Solver+%7C;Tech+Enthusiast+%7C" alt="Typing SVG" />
+  </a>
+</p>
 
-
-
-
-
----
 
 ## 🚀 About Me
 
@@ -48,18 +48,18 @@
 ## 🤝 Let’s Connect
 
 <h3 align="left" style="font-weight:600; color:#8b949e; text-transform:uppercase; letter-spacing:1px; margin-top:10px; margin-bottom:20px;">
-  🌐 Connect With Me
+  💬 Social Links
 </h3>
 
 <p align="left" style="margin-top:10px;">
-  <!-- X (Twitter / X) -->
-  <a href="https://x.com/iamgolam" target="_blank" style="margin-right:18px; text-decoration:none; display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="32" width="32" style="filter: brightness(0) invert(1);"  />
+  <!-- Twitter -->
+  <a href="https://x.com/iamgolam" target="_blank" style="margin-right:10px; text-decoration:none;">
+    <img src="https://img.shields.io/badge/Twitter-0A75C2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/iamgolam" target="_blank" style="text-decoration:none; display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="32" width="32" style="filter: brightness(0) invert(1);" />
+  <a href="https://linkedin.com/in/iamgolam" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A4F94?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -73,6 +73,4 @@
   <a href="https://your-portfolio-contact-link.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Get_in_Touch-00B2FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
   </a>
-</div>
-
 </div>
