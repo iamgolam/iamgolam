@@ -6,48 +6,46 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C;Problem+Solver+%7C;Tech+Enthusiast+%7C" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C;Problem+Solver+%7C;Tech+Enthusiast+%7C" alt="Typing SVG" />
 </p>
+
 
 
 ## 🚀 About Me
 
-- Currently working on my own startup with passion & purpose 💻
+- Currently building my own startup with passion & purpose 💻  
+- Addicted to Modern Web, Mobile, & AI Automation  
+- Motto: **Learn by building. Grow by solving.**  
+- 💡 *Fun Fact:* I write cleaner code after midnight ☠  
 
-- Addicted to Modern Web, Mobile, & AI Automation
 
-- Motto: Learn by building. Grow by solving.
-
-- 💡 Fun Fact: I write cleaner code after midnight ☠
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamgolam&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true" />
-</td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iamgolam&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=iamgolam&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=iamgolam&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 ## 🤝 Let’s Connect
 
 <h3 align="left" style="font-weight:600; color:#8b949e; text-transform:uppercase; letter-spacing:1px; margin-top:10px; margin-bottom:20px;">
-  💬 Social Links
+  💬 Social
 </h3>
 
 <p align="left" style="margin-top:10px;">
   <!-- Twitter -->
-  <a href="https://x.com/iamgolam" target="_blank" style="margin-right:10px; text-decoration:none;">
+  <a href="https://x.com/iamgolam_" target="_blank" style="margin-right:10px; text-decoration:none;">
     <img src="https://img.shields.io/badge/Twitter-0A75C2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 
@@ -64,7 +62,7 @@
 </p>
 
 <div style="margin-top:25px;">
-  <a href="https://your-portfolio-contact-link.com" target="_blank" style="text-decoration:none;">
+  <a href="#" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Get_in_Touch-00B2FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
   </a>
 </div>
