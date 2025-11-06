@@ -15,10 +15,13 @@
 
 ## 🚀 About Me
 
-- Founder — currently building a tech startup  
-- Focused on secure & scalable **e-commerce platforms**
-- Passionate about **Modern Web**, **Mobile**, **AI Automation**
-- Believe in: **Learning by building. Growing by solving.**
+- Currently working on my own startup with passion & purpose 💻
+
+- Addicted to Modern Web, Mobile, & AI Automation
+
+- Motto: Learn by building. Grow by solving.
+
+- 💡 Fun Fact: I write cleaner code after midnight ☠
 
 ---
 
