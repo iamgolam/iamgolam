@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896" 
-       alt="Pixel Art Wallpaper Desktop Gif" 
-       width="100%" style="border-radius:12px; margin-bottom:25px;" />
-</p>
-
 <h1 align="center" style="font-weight:800; font-size:2.8rem; margin-bottom:10px; line-height:1.3;">
   Hi, I’m 
   <span style="background:linear-gradient(90deg,#58a6ff,#00d4ff,#58a6ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
